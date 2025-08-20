@@ -1,0 +1,365 @@
+[
+  {
+    "id": "app001",
+    "name": "Programming Hero",
+    "developer": "Programming Hero Ltd.",
+    "thumbnail": "https://i.ibb.co.com/rGKx99pt/programminghero-logo-e-2147483647-v-beta-t-O2cmd-NNJwz-Myps-L2kzlh-Pe-Fy4n-Butsae-OYG0-Tm3t-Iqw.jpg",
+    "banner": "https://i.ibb.co.com/rGKx99pt/programminghero-logo-e-2147483647-v-beta-t-O2cmd-NNJwz-Myps-L2kzlh-Pe-Fy4n-Butsae-OYG0-Tm3t-Iqw.jpg",
+    "downloads": 3500000,
+    "category": "Education",
+    "rating": 4.8,
+    "description": "Programming Hero is a fun and interactive way to learn programming. Whether you're a beginner or looking to brush up your skills, this app makes learning to code exciting and practical.",
+    "features": [
+      "Interactive coding lessons",
+      "Real-world projects",
+      "Gamified learning experience"
+    ],
+    "reviews": [
+      {
+        "user": "coder_nadia",
+        "rating": 5,
+        "comment": "Best app for beginners! The lessons are super easy to follow and engaging."
+      }
+    ]
+  },
+  {
+    "id": "app002",
+    "name": "Evernote",
+    "developer": "Evernote Corporation",
+    "thumbnail": "https://i.ibb.co.com/SXtKfMLc/images-q-tbn-ANd9-Gc-S5-Cy1-Avlqt4-HE-e-WZJ8s-Nix-E0cid12o-TYHEw-s.jpg",
+    "banner": "https://i.ibb.co.com/SXtKfMLc/images-q-tbn-ANd9-Gc-S5-Cy1-Avlqt4-HE-e-WZJ8s-Nix-E0cid12o-TYHEw-s.jpg",
+    "downloads": 50000000,
+    "category": "Productivity",
+    "rating": 4.7,
+    "description": "Evernote helps you capture, organize, and share notes. With powerful search and organization features, you can keep track of everything in one place.",
+    "features": [
+      "Cross-platform syncing",
+      "Advanced search functionality",
+      "Note sharing"
+    ],
+    "reviews": [
+      {
+        "user": "note_keeper22",
+        "rating": 4,
+        "comment": "Great app for note-taking but could use more customization options."
+      }
+    ]
+  },
+  {
+    "id": "app003",
+    "name": "PUBG Mobile",
+    "developer": "Tencent Games",
+    "thumbnail": "https://i.ibb.co.com/wF1vnbQp/pubg.jpg",
+    "banner": "https://i.ibb.co.com/wF1vnbQp/pubg.jpg",
+    "downloads": 1000000000,
+    "category": "Gaming",
+    "rating": 4.5,
+    "description": "PUBG Mobile brings the battle royale experience to your mobile device with 100-player matches and fast-paced action.",
+    "features": [
+      "Real-time multiplayer",
+      "Variety of game modes",
+      "High-quality graphics"
+    ],
+    "reviews": [
+      {
+        "user": "gamer_legend98",
+        "rating": 5,
+        "comment": "One of the best battle royale games for mobile, non-stop action!"
+      }
+    ]
+  },
+  {
+    "id": "app004",
+    "name": "Duolingo",
+    "developer": "Duolingo, Inc.",
+    "thumbnail": "https://i.ibb.co.com/5XJQw7DZ/cover-How-well-does-Duolingo-work.png",
+    "banner": "https://i.ibb.co.com/5XJQw7DZ/cover-How-well-does-Duolingo-work.png",
+    "downloads": 500000000,
+    "category": "Education",
+    "rating": 4.9,
+    "description": "Duolingo is a fun and effective way to learn new languages. Through gamified lessons, you can learn languages at your own pace.",
+    "features": [
+      "Multiple languages offered",
+      "Daily practice reminders",
+      "Interactive lessons"
+    ],
+    "reviews": [
+      {
+        "user": "language_learner89",
+        "rating": 5,
+        "comment": "Absolutely love it! The lessons are short and enjoyable."
+      }
+    ]
+  },
+  {
+    "id": "app005",
+    "name": "Slack",
+    "developer": "Slack Technologies",
+    "thumbnail": "https://i.ibb.co.com/9HhBvThx/tiny-spec-inc-logo-e-2147483647-v-beta-t-mn-U-Yn6-AUZIg-Sc-SR0kpm-Vh-W6-BZt1a-PVs-byyj6jb-FNI.jpg",
+    "banner": "https://i.ibb.co.com/9HhBvThx/tiny-spec-inc-logo-e-2147483647-v-beta-t-mn-U-Yn6-AUZIg-Sc-SR0kpm-Vh-W6-BZt1a-PVs-byyj6jb-FNI.jpg",
+    "downloads": 100000000,
+    "category": "Productivity",
+    "rating": 4.6,
+    "description": "Slack is a messaging app for teams that makes communication easy and efficient, with powerful features for organization.",
+    "features": [
+      "Channels for team communication",
+      "File sharing",
+      "Integrations with other tools"
+    ],
+    "reviews": [
+      {
+        "user": "team_leader01",
+        "rating": 5,
+        "comment": "Perfect app for team collaboration. Highly recommended for remote teams."
+      }
+    ]
+  },
+  {
+    "id": "app006",
+    "name": "Minecraft",
+    "developer": "Mojang Studios",
+    "thumbnail": "https://i.ibb.co.com/GQ4LXJ0J/Ki-Ul-Rvv-GP-lu-C8-OHFkia-6-MSYKKiz-U7-G9-Cs3it-f0-Q7w-8-Xsop-Se-kh-XL1-X2sf-Mg-w600-h300-pc0xffffff.png",
+    "banner": "https://i.ibb.co.com/GQ4LXJ0J/Ki-Ul-Rvv-GP-lu-C8-OHFkia-6-MSYKKiz-U7-G9-Cs3it-f0-Q7w-8-Xsop-Se-kh-XL1-X2sf-Mg-w600-h300-pc0xffffff.png",
+    "downloads": 500000000,
+    "category": "Gaming",
+    "rating": 4.8,
+    "description": "Minecraft is a sandbox game that lets you build, explore, and survive in a world made entirely of blocks.",
+    "features": [
+      "Creative mode",
+      "Multiplayer support",
+      "Mods and community content"
+    ],
+    "reviews": [
+      {
+        "user": "block_buster92",
+        "rating": 5,
+        "comment": "Timeless classic! Love building and exploring new worlds."
+      }
+    ]
+  },
+  {
+    "id": "app007",
+    "name": "Google Keep",
+    "developer": "Google LLC",
+    "thumbnail": "https://i.ibb.co.com/spfnJ0JP/google-keep-icon.png",
+    "banner": "https://i.ibb.co.com/spfnJ0JP/google-keep-icon.png",
+    "downloads": 100000000,
+    "category": "Productivity",
+    "rating": 4.4,
+    "description": "Google Keep helps you capture ideas, lists, and notes in an easy-to-use interface. Syncs across all your devices.",
+    "features": ["Colorful note-taking", "Voice notes", "Reminders"],
+    "reviews": [
+      {
+        "user": "notes_creator91",
+        "rating": 4,
+        "comment": "Good app for quick notes and lists, but the search feature could be better."
+      }
+    ]
+  },
+  {
+    "id": "app008",
+    "name": "Khan Academy",
+    "developer": "Khan Academy, Inc.",
+    "thumbnail": "https://i.ibb.co.com/WvTVQtpY/AIdro-l3-Ggg-KOWVi-CBp-Ds9-APIs-K6-MHB2-Mu-ECo5d-UEU-Vay2gg-s900-c-k-c0x00ffffff-no-rj.jpg",
+    "banner": "https://i.ibb.co.com/WvTVQtpY/AIdro-l3-Ggg-KOWVi-CBp-Ds9-APIs-K6-MHB2-Mu-ECo5d-UEU-Vay2gg-s900-c-k-c0x00ffffff-no-rj.jpg",
+    "downloads": 100000000,
+    "category": "Education",
+    "rating": 4.7,
+    "description": "Khan Academy offers free online courses, lessons, and practice in a wide range of subjects, from math to history.",
+    "features": ["Free courses", "Interactive exercises", "Progress tracking"],
+    "reviews": [
+      {
+        "user": "student_hero45",
+        "rating": 5,
+        "comment": "Amazing resource for free learning! Helps me a lot with my studies."
+      }
+    ]
+  },
+  {
+    "id": "app009",
+    "name": "Asana",
+    "developer": "Asana, Inc.",
+    "thumbnail": "https://i.ibb.co.com/tMbF4rxP/images-q-tbn-ANd9-Gc-Sc-D1n-IKy-MQn9x7-WWb-Gx-Qq-Vk31-VJ5-Vb5-YFnwg-s.png",
+    "banner": "https://i.ibb.co.com/tMbF4rxP/images-q-tbn-ANd9-Gc-Sc-D1n-IKy-MQn9x7-WWb-Gx-Qq-Vk31-VJ5-Vb5-YFnwg-s.png",
+    "downloads": 50000000,
+    "category": "Productivity",
+    "rating": 4.5,
+    "description": "Asana helps teams organize, track, and manage their work, ensuring everyone stays on top of tasks and deadlines.",
+    "features": ["Task assignment", "Project timelines", "Team collaboration"],
+    "reviews": [
+      {
+        "user": "project_manager27",
+        "rating": 5,
+        "comment": "Great tool for organizing projects. It keeps our team aligned."
+      }
+    ]
+  },
+  {
+    "id": "app010",
+    "name": "Candy Crush Saga",
+    "developer": "King",
+    "thumbnail": "https://i.ibb.co.com/dsstMDZ8/apps-52397-13510798882606697-1816f804-e7fd-4295-9275-23dec3563baf.jpg",
+    "banner": "https://i.ibb.co.com/dsstMDZ8/apps-52397-13510798882606697-1816f804-e7fd-4295-9275-23dec3563baf.jpg",
+    "downloads": 1000000000,
+    "category": "Gaming",
+    "rating": 4.3,
+    "description": "Candy Crush Saga is a puzzle game where you match candies to clear levels and earn rewards.",
+    "features": ["Match-3 puzzle gameplay", "Power-ups", "Leaderboards"],
+    "reviews": [
+      {
+        "user": "candy_lover77",
+        "rating": 5,
+        "comment": "I can't stop playing this game. It's so addictive!"
+      }
+    ]
+  },
+  {
+    "id": "app011",
+    "name": "Udemy",
+    "developer": "Udemy, Inc.",
+    "thumbnail": "https://i.ibb.co.com/1fvqGQ76/udemy-210404100111-thumbnail.jpg",
+    "banner": "https://i.ibb.co.com/1fvqGQ76/udemy-210404100111-thumbnail.jpg",
+    "downloads": 50000000,
+    "category": "Education",
+    "rating": 4.6,
+    "description": "Udemy is a learning platform offering a wide range of online courses on everything from tech to business.",
+    "features": [
+      "Wide variety of courses",
+      "Certificate programs",
+      "Lifetime access to courses"
+    ],
+    "reviews": [
+      {
+        "user": "tech_guru93",
+        "rating": 5,
+        "comment": "Great platform for learning! The courses are top-notch and really affordable."
+      }
+    ]
+  },
+  {
+    "id": "app012",
+    "name": "Spotify",
+    "developer": "Spotify Technology S.A.",
+    "thumbnail": "https://i.ibb.co.com/1tK6tSmF/042-FW7h-C9vr-Gno-Dea9-LAr-XI-35-v1674253030.png",
+    "banner": "https://i.ibb.co.com/1tK6tSmF/042-FW7h-C9vr-Gno-Dea9-LAr-XI-35-v1674253030.png",
+    "downloads": 300000000,
+    "category": "Entertainment",
+    "rating": 4.8,
+    "description": "Spotify is a music streaming service that gives you access to millions of songs and podcasts.",
+    "features": ["Curated playlists", "Podcasts", "Music discovery"],
+    "reviews": [
+      {
+        "user": "music_fan91",
+        "rating": 5,
+        "comment": "Great for discovering new music and podcasts. Love the playlists!"
+      }
+    ]
+  },
+  {
+    "id": "app013",
+    "name": "Google Drive",
+    "developer": "Google LLC",
+    "thumbnail": "https://i.ibb.co.com/mnm61r8/02-PHW91b-Uv-LOs36q-Nb-Bz-Oi-R-12-v1569471162.png",
+    "banner": "https://i.ibb.co.com/mnm61r8/02-PHW91b-Uv-LOs36q-Nb-Bz-Oi-R-12-v1569471162.png",
+    "downloads": 1000000000,
+    "category": "Productivity",
+    "rating": 4.7,
+    "description": "Google Drive is a cloud storage service that allows you to store files online and access them from anywhere.",
+    "features": [
+      "15GB of free storage",
+      "Collaborative document editing",
+      "File sharing"
+    ],
+    "reviews": [
+      {
+        "user": "cloud_explorer88",
+        "rating": 5,
+        "comment": "Essential tool for collaboration and storage. Always reliable."
+      }
+    ]
+  },
+  {
+    "id": "app014",
+    "name": "Clash Royale",
+    "developer": "Supercell",
+    "thumbnail": "https://i.ibb.co.com/fYqpkZHV/og-clashroyale-d235f90b.webp",
+    "banner": "https://i.ibb.co.com/fYqpkZHV/og-clashroyale-d235f90b.webp",
+    "downloads": 500000000,
+    "category": "Gaming",
+    "rating": 4.6,
+    "description": "Clash Royale is a real-time strategy game where you collect and upgrade cards to defeat your opponents.",
+    "features": ["Real-time multiplayer", "Card collection", "Clan battles"],
+    "reviews": [
+      {
+        "user": "strategy_master91",
+        "rating": 5,
+        "comment": "Great strategy game! I love the fast-paced action and card system."
+      }
+    ]
+  },
+  {
+    "id": "app015",
+    "name": "Notion",
+    "developer": "Notion Labs, Inc.",
+    "thumbnail": "https://i.ibb.co.com/rGqgpSBQ/Notion-Logo.png",
+    "banner": "https://i.ibb.co.com/rGqgpSBQ/Notion-Logo.png",
+    "downloads": 20000000,
+    "category": "Productivity",
+    "rating": 4.9,
+    "description": "Notion is an all-in-one workspace that combines notes, tasks, databases, and wikis into one platform.",
+    "features": [
+      "Customizable workspaces",
+      "Collaboration tools",
+      "Integrated task management"
+    ],
+    "reviews": [
+      {
+        "user": "organizer_guru92",
+        "rating": 5,
+        "comment": "Perfect app for organizing everything in one place. I use it for both work and personal tasks."
+      }
+    ]
+  },
+  {
+    "id": "app016",
+    "name": "LinkedIn Learning",
+    "developer": "LinkedIn Corporation",
+    "thumbnail": "https://i.ibb.co.com/k6c75LYX/images-q-tbn-ANd9-Gc-RWI9qe-s-MIOIqlx-O0-Dki-Yi-Pfyr4-Ahn-Hj47-XQ-s.png",
+    "banner": "https://i.ibb.co.com/k6c75LYX/images-q-tbn-ANd9-Gc-RWI9qe-s-MIOIqlx-O0-Dki-Yi-Pfyr4-Ahn-Hj47-XQ-s.png",
+    "downloads": 50000000,
+    "category": "Education",
+    "rating": 4.8,
+    "description": "LinkedIn Learning offers professional development courses taught by industry experts, focusing on skills needed in the workplace.",
+    "features": [
+      "Wide range of professional courses",
+      "Skill development tracking",
+      "Certificate of completion"
+    ],
+    "reviews": [
+      {
+        "user": "career_advancer99",
+        "rating": 5,
+        "comment": "Invaluable for career growth! The courses are well-structured and insightful."
+      }
+    ]
+  },
+  {
+    "id": "app017",
+    "name": "Zoom",
+    "developer": "Zoom Video Communications, Inc.",
+    "thumbnail": "https://i.ibb.co.com/sdfm2nTX/25-Ue-WUr-VGmu-XUjn-G6-Yt7rj.jpg",
+    "banner": "https://i.ibb.co.com/sdfm2nTX/25-Ue-WUr-VGmu-XUjn-G6-Yt7rj.jpg",
+    "downloads": 500000000,
+    "category": "Productivity",
+    "rating": 4.7,
+    "description": "Zoom is a video conferencing app that provides high-quality video and audio for meetings, webinars, and online communication.",
+    "features": ["HD video meetings", "Screen sharing", "Meeting recording"],
+    "reviews": [
+      {
+        "user": "meeting_pro93",
+        "rating": 5,
+        "comment": "Perfect app for remote work and team meetings. Very reliable."
+      }
+    ]
+  }
+]
