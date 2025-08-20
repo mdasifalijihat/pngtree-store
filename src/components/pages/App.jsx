@@ -24,7 +24,7 @@ const App = () => {
   };
 
   return (
-    <div className="space-y-10 px-4 py-8">
+    <div className="space-y-10 px-4 py-8 container mx-auto">
       {/* Slider Section */}
 
       {/* Marquee Section */}

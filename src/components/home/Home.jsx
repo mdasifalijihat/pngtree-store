@@ -4,7 +4,7 @@ import Banner from '../pages/appsCard/Banner';
 
 const Home = () => {
     return (
-        <div>
+        <div className='container mx-auto'>
             <Banner></Banner>
             <App></App>
         </div>
